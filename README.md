@@ -6,7 +6,7 @@ FLEE is an agent-based simulation toolkit which is purpose-built for simulating 
 
 After obtaining conflict locations and neighbouring camps, prediction of refugee movements requires network maps. As we have several locations, identifying connection routes, distances, constructing and visualising these links becomes time consuming. Hence, manually constructed network maps are proven to be inefficient at this moment. 
 
-![An example of network map for Central African Republic (manual construction)](images/CAR.png | width = 100)
+![An example of network map for Central African Republic (manual construction)](images/CAR.png | width=100)
 
 Automated network map construction - Networkflee - allows to detect route connections and distances between locations, as well as constuct visual representation. It requires a dataset (e.g. locations.csv) with location names and GPS coordinates in csv format, which is also used for simulation purposes at the later stage. 
 
