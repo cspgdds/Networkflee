@@ -73,7 +73,7 @@ Automated network map construction - Networkflee - allows to detect route connec
     <td>…</td>
   </tr>
 </table>
-![Network map example](images/scenario.png)
+![Network map example](images/scenario.png | width = 100)
 
 ### Todo
 - [x] API route-to-route
