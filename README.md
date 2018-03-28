@@ -1,5 +1,5 @@
 # Networkflee
-This project is an inspiration of the Hackday at the Collaborations Workshop 2018 organised by SSI.
+This project is an inspiration of the Hackday at the Collaborations Workshop 2018 organised by SSI and work is in progress.
 
 ## Overview
 FLEE is an agent-based simulation toolkit which is purpose-built for simulating the movement of individuals across geographical locations. Flee is currently used primarily for modelling the movements of refugees. It uses data from the [Armed Conflict Location & Event Data Project](http://data2.unhcr.org/en/situations) (ACLED) to model the migration of refugees within a conflict zone and data from the [United Nations High Commission for Refugees](http://data2.unhcr.org/en/situations) (UNHCR) to identify locations of camps. 
@@ -73,7 +73,7 @@ Automated network map construction - Networkflee - allows to detect route connec
     <td>…</td>
   </tr>
 </table>
-![Network map example](images/scenario)
+![Network map example](images/scenario.png)
 
 ### Todo
 - [x] API route-to-route
@@ -88,9 +88,8 @@ Output:
 - [ ] Find names by OSM query
 
 
-
 ## Network map visualisation
-![Network map for Central African Republic (manual)](images/CAR)
+![Network map for Central African Republic (manual)](images/CAR.png)
 
 
 ## Simulation of refugee movements
